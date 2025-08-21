@@ -1,6 +1,6 @@
 <!-- HEADER WITH TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=500&speed=50&color=F94DFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abdullah;Open+Source+Enthusiast!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=500&speed=50&color=F94DFF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Abdullah;Open+Source+Enthusiast;Thank+you+for+viewing+my+profile!" />
 </p>
 
 <p align="center">
