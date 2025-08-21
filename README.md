@@ -3,10 +3,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=500&speed=65&color=F94DFF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Abdullah;Open+Source+Enthusiast;Thank+you+for+viewing+my+profile!" />
 </p>
 
+<!--
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
 </p>
-
+-->
 ---
 
 <!--
