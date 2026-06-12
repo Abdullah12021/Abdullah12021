@@ -33,3 +33,27 @@ Here are some ideas to get you started:
 </picture>
 
 
+
+
+<div align="center">
+  <!-- Glowing Interactive Ring Around The Animation -->
+  <div style="
+    width: 250px; 
+    height: 250px; 
+    border-radius: 50%; 
+    overflow: hidden; 
+    box-shadow: 0 0 20px rgba(0, 255, 136, 0.4); 
+    border: 2px solid rgba(0, 255, 136, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #0d1117;">
+    
+    <!-- Your Live 3D GitHub Action Asset File -->
+    <img 
+      src="./profile-3d-contrib/profile-green-animate.svg" 
+      style="width: 160%; height: 160%; object-fit: cover;" 
+      alt="Animated Contribution Graph" />
+      
+  </div>
+</div>
