@@ -33,6 +33,3 @@ Here are some ideas to get you started:
 </picture>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abdullah12021/Abdullah12021/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Abdullah's 3D Contributions">
-</p>
