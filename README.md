@@ -3,27 +3,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=500&speed=65&color=F88379&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Abdullah;Open+Source+Enthusiast;Thank+you+for+visiting!" />
 </p>
 
-<!--
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
-</p>
--->
----
+<!-- MADARA BLASTING THE TUTORIAL HELL BANNER -->
+<table border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr>
+    <!-- Madara on the left -->
+    <td valign="center" width="50%">
+      <img src="YOUR_MADARA_GIF_URL_HERE" width="100%" alt="Madara Fire Jutsu" />
+    </td>
+    <!-- Vertical typing dramatic text on the right -->
+    <td valign="center" width="50%" align="left">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1500&speed=50&color=FF4500&center=false&vCenter=true&width=450&height=100&multiline=true&lines=When+a+dev+learns+to+code%2C%0D%0Athey+must+bear+the+risk...;...of+TUTORIAL+HELL!!" alt="Tutorial Hell Text" />
+    </td>
+  </tr>
+</table>
 
-<!--
-**Abdullah12021/Abdullah12021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
 
 <!--This is for snake animation -->
 <picture>
