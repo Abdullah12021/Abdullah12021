@@ -12,7 +12,7 @@
   <img src="https://raw.githubusercontent.com/Abdullah12021/Abdullah12021/main/madara.gif" width="380" style="display: inline-block; vertical-align: middle; margin-right: 10px;" alt="Madara Fire Jutsu" />
 
   <!-- Two-phase typing: phase 1 types in full, vanishes, phase 2 types in -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1500&speed=60&color=F88379&center=false&vCenter=top&width=260&height=350&multiline=true&lines=When%0Aa+dev%0Alearns%0Ato+code%2C;they%0Amust%0Abear%0Athe%0Arisk+of%0ATUTORIAL%0AHELL!!" style="display: inline-block; vertical-align: middle;" alt="Tutorial Hell Vertical" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=500&speed=65&color=F88379&center=false&vCenter=top&width=260&height=350&multiline=true&lines=When%0Aa+dev%0Alearns%0Ato+code%2C;they%0Amust%0Abear%0Athe%0Arisk+of%0ATUTORIAL%0AHELL!!" style="display: inline-block; vertical-align: middle;" alt="Tutorial Hell Vertical" />
 </p>
 
 <br />
