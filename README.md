@@ -18,6 +18,9 @@
 
 <br />
 
+<!-- CLEAN THEMED DIVIDER -->
+<hr style="border: 1px solid #30363d; margin: 20px 0;" />
+
 <!-- This is for snake animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdullah12021/Abdullah12021/output/github-contribution-grid-snake-dark.svg">
