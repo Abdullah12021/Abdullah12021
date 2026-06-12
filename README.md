@@ -57,3 +57,11 @@ Here are some ideas to get you started:
       
   </div>
 </div>
+
+
+
+
+<div align="center">
+  <img src="https://demolab.com!" alt="Typing SVG" />
+</div>
+
