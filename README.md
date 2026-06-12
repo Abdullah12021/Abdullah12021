@@ -3,22 +3,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=500&speed=65&color=F88379&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Abdullah;Open+Source+Enthusiast;Thank+you+for+visiting!" />
 </p>
 
+
 <!-- MADARA & THE VERTICAL QUOTE -->
-
 <p align="center">
-
   <!-- Madara on the left -->
-
   <img src="https://raw.githubusercontent.com/Abdullah12021/Abdullah12021/main/madara.gif" width="380" style="display: inline-block; vertical-align: middle; margin-right: 20px;" alt="Madara Fire Jutsu" />
-
   
-
-  <!-- Fixed vertical layout engine -->
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=2000&speed=60&color=F88379&center=false&vCenter=top&width=220&height=350&multiline=true&lines=When%0Aa+dev%0Alearns%0Ato+code%2C;they%0Amust%0Abear%0Athe%0Arisk+of%0ATUTORIAL%0AHELL!!" style="display: inline-block; vertical-align: middle;" alt="Tutorial Hell Vertical" />
-
+  <!-- Fixed vertical layout engine using sequential phrase stacking -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&speed=60&color=F88379&center=false&vCenter=top&width=220&height=350&multiline=true&lines=When;When%0Aa+dev;When%0Aa+dev%0Alearns;When%0Aa+dev%0Alearns%0Ato+code%2C;;they;they%0Amust;they%0Amust%0Abear;they%0Amust%0Abear%0Athe;they%0Amust%0Abear%0Athe%0Arisk+of;they%0Amust%0Abear%0Athe%0Arisk+of%0ATUTORIAL;they%0Amust%0Abear%0Athe%0Arisk+of%0ATUTORIAL%0AHELL!!" style="display: inline-block; vertical-align: middle;" alt="Tutorial Hell Vertical" />
 </p>
-
 
 <br />
 
