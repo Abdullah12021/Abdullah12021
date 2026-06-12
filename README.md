@@ -6,13 +6,13 @@
 <!-- CLEAN THEMED DIVIDER -->
 <hr style="border: 1px solid #30363d; margin: 20px 0;" />
 
-<!-- MADARA & THE TWO-PHASE QUOTE -->
+<!-- MADARA & THE TWO-PHASE VERTICAL QUOTE -->
 <p align="center">
   <!-- Madara on the left -->
   <img src="https://raw.githubusercontent.com/Abdullah12021/Abdullah12021/main/madara.gif" width="380" style="display: inline-block; vertical-align: middle; margin-right: 20px;" alt="Madara Fire Jutsu" />
 
-  <!-- The exact two-phase typing setup -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1500&speed=60&color=F88379&center=false&vCenter=top&width=260&height=350&lines=When+a+dev+learns+to+code%2C;they+must+bear+the+risk+of+TUTORIAL+HELL!!" style="display: inline-block; vertical-align: middle;" alt="Tutorial Hell Version" />
+  <!-- Two-phase typing with vertical stacked words -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1500&speed=60&color=F88379&center=false&vCenter=top&width=260&height=380&multiline=true&lines=When%0Aa+dev%0Alearns%0Ato+code%2C;they%0Amust%0Abear%0Athe%0Arisk+of%0ATUTORIAL%0AHELL!!" style="display: inline-block; vertical-align: middle;" alt="Tutorial Hell Vertical" />
 </p>
 
 <br />
