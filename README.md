@@ -32,13 +32,6 @@ Here are some ideas to get you started:
   <img alt="github contribution snake yml" src="https://raw.githubusercontent.com/Abdullah12021/Abdullah12021/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!--This is for 3D animation -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abdullah12021/Abdullah12021/main/profile-3d-contrib/profile-green-animate.svg" alt="Abdullah's 3D Contributions">
-</p>
-
-
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah12021&theme=react-dark&area=true&custom_title=Recent%20Coding%20Activity" alt="Abdullah's Coding Activity Graph" />
