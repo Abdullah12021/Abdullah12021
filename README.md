@@ -31,3 +31,8 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdullah12021/Abdullah12021/output/github-contribution-grid-snake.svg">
   <img alt="github contribution snake yml" src="https://raw.githubusercontent.com/Abdullah12021/Abdullah12021/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abdullah12021/Abdullah12021/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Abdullah's 3D Contributions">
+</p>
