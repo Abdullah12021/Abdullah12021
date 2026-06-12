@@ -32,6 +32,3 @@ Here are some ideas to get you started:
 </picture>
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abdullah12021&theme=radial" alt="Abdullah's GitHub Streak" />
-</p>
