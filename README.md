@@ -3,14 +3,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=500&speed=65&color=F88379&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Abdullah;Open+Source+Enthusiast;Thank+you+for+visiting!" />
 </p>
 
-<!-- MADARA & THE VERTICAL QUOTE (NO BOXES) -->
+<!-- MADARA & THE VERTICAL QUOTE -->
+
 <p align="center">
-  <!-- Madara stays on the left -->
+
+  <!-- Madara on the left -->
+
   <img src="https://raw.githubusercontent.com/Abdullah12021/Abdullah12021/main/madara.gif" width="380" style="display: inline-block; vertical-align: middle; margin-right: 20px;" alt="Madara Fire Jutsu" />
+
   
-  <!-- The perfectly stacked vertical quote on the right -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=2000&speed=60&color=F88379&center=false&vCenter=true&width=200&height=320&multiline=true&lines=When%0D%0Aa+dev%0D%0Alearns%0D%0Ato+code%2C;they%0D%0Amust%0D%0Abear%0D%0Athe%0D%0Arisk+of%0D%0ATUTORIAL%0D%0AHELL!!" style="display: inline-block; vertical-align: middle;" alt="Tutorial Hell Quote" />
+
+  <!-- Fixed vertical layout engine -->
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=2000&speed=60&color=F88379&center=false&vCenter=top&width=220&height=350&multiline=true&lines=When%0Aa+dev%0Alearns%0Ato+code%2C;they%0Amust%0Abear%0Athe%0Arisk+of%0ATUTORIAL%0AHELL!!" style="display: inline-block; vertical-align: middle;" alt="Tutorial Hell Vertical" />
+
 </p>
+
 
 <br />
 
