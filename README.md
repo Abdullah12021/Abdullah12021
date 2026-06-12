@@ -1,6 +1,6 @@
 <!-- HEADER WITH TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=500&speed=65&color=F88379&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Abdullah;Open+Source+Enthusiast;Thank+you+for+visiting!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=500&speed=65&color=FF3344&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Abdullah;Open+Source+Enthusiast;Thank+you+for+visiting!" />
 </p>
 
 <!-- CLEAN THEMED DIVIDER -->
@@ -11,9 +11,9 @@
   <img src="https://raw.githubusercontent.com/Abdullah12021/Abdullah12021/main/madara.gif" width="380" alt="Madara Fire Jutsu" />
 </p>
 
-<!-- FAST TWO-PHASE QUOTE WITH QUOTES UNDER THE IMAGE -->
+<!-- FAST TWO-PHASE QUOTE WITH NEW FONT AND CORRECTED QUOTES -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&speed=100&color=F88379&center=true&vCenter=true&width=600&height=50&lines=%22When+a+dev+learns+to+code%2C%22;%22they+must+bear+the+risk+of+TUTORIAL+HELL!!%22" alt="Tutorial Hell Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&speed=100&color=FF3344&center=true&vCenter=true&width=650&height=50&lines=%22When+a+dev+learns+to+code%2C;they+must+bear+the+risk+of+TUTORIAL+HELL!!%22" alt="Tutorial Hell Quote" />
 </p>
 
 <br />
